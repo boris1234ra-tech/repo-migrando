@@ -6,3 +6,4 @@ nueva
 actualizada
 x2
 x3
+version de migracion
